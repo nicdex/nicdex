@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can follow me <a rel="me" href="https://techhub.social/@nicdex">Mastodon</a>
+
 <!--
 **nicdex/nicdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
