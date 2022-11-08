@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can follow me on <a rel="nofollow me" href="https://techhub.social/@nicdex">Mastodon</a>
+You can follow me on <a rel="nofollow me" class="Link--primary" href="https://techhub.social/@nicdex">Mastodon</a>
 
 <!--
 **nicdex/nicdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
